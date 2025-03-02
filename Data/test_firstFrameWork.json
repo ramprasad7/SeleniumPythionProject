@@ -9,7 +9,16 @@
       "userEmail" : "rahulshettyacademy",
       "userPassword" : "learning",
       "productName" : "Samsung Note 8"
+    },
+    {
+      "userEmail" : "rahulshettyacademy",
+      "userPassword" : "learning",
+      "productName" : "Nokia Edge"
+    },
+    {
+      "userEmail" : "rahulshettyacademy",
+      "userPassword" : "learning",
+      "productName" : "iphone X"
     }
-
   ]
 }
